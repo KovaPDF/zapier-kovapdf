@@ -1,0 +1,20 @@
+{
+  "name": "kovapdf-zapier",
+  "version": "1.0.0",
+  "description": "KovaPDF for Zapier: compress, merge, split, convert, read, redact and verify PDFs, and send PDFs for signature.",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true,
+  "homepage": "https://www.kovapdf.com/developers",
+  "author": "KovaPDF <support@kovapdf.com>",
+  "engines": { "node": ">=22" },
+  "scripts": {
+    "test": "node --test test/*.test.js"
+  },
+  "dependencies": {
+    "zapier-platform-core": "19.3.0"
+  },
+  "devDependencies": {
+    "nock": "15.0.5"
+  }
+}

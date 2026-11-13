@@ -50,4 +50,4 @@ The tool list (`lib/tools.generated.js`) is generated from KovaPDF's tool manife
 
 ## Licence
 
-MIT for the code (see LICENSE). The KovaPDF name and logo are not licensed under it.
+MIT for the code (see LICENSE). The KovaPDF name and logo are not licensed under it (see NOTICE).
